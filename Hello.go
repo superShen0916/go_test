@@ -5,7 +5,6 @@ import (
 	"rsc.io/quote"
 )
 
-
 func Print_ln()  {
 	fmt.Println(quote.Hello())
 }
