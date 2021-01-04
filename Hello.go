@@ -1,10 +1,10 @@
-package main
+package demo2
 
 import (
 	"fmt"
 	"rsc.io/quote"
 )
 
-func main()  {
+func printLn()  {
 	fmt.Println(quote.Hello())
 }
