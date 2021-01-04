@@ -1,4 +1,4 @@
-module content/practice/demo2
+module github.com/PennShawn/go_test
 
 go 1.14
 
